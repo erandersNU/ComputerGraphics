@@ -38,4 +38,4 @@ After running CMake, you will have all the scripts/files necessary to build your
 
 Submission
 ====================================
-When you are ready to submit your project, push your forked repo to your own git repository and send me a link via e-mail.  This will allow me to fetch your code and build it locally myself.  If, for some reason, I cannot build your code, I will contact you and set up a time to meet and get the issues fixed up.
+When you are ready to submit your project, push your forked repo to your own git repository and send me a link via e-mail.  Once I am able to get Blackboard to recognize assignments (I am currently working on this), submissions will proceed through Blackboard.  This will allow me to fetch your code and build it locally myself.  If, for some reason, I cannot build your code, I will contact you and set up a time to meet and get the issues fixed up.
