@@ -1,0 +1,3 @@
+- Q: My triangles are not filled
+  - A: You may need to add a 'round' function `int y = std::round(v0.y*(1.0f-t) + v1.y*t);`
+  - A: Additionally,  you may need to check if you are drawing a single pixel.
