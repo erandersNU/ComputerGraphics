@@ -1,6 +1,6 @@
 /** @file PPM.h
  *  @brief Class for working with PPM images
- *  
+ *
  *  Class for working with P3 PPM images specifically.
  *
  *  @author your_name_here
@@ -24,7 +24,7 @@ public:
     // in the PPM. Note that no values may be less than
     // 0 in a ppm.
     void darken();
-    // Sets a pixel to a specific R,G,B value 
+    // Sets a pixel to a specific R,G,B value
     void setPixel(int x, int y, int R, int G, int B);
     // Returns the raw pixel data in an array.
     // You may research what 'inline' does.
@@ -35,7 +35,7 @@ public:
     inline int getHeight(){ return m_height; }
 // NOTE:    You may add any helper functions you like in the
 //          private section.
-private:    
+private:
     // Store the raw pixel data here
     // Data is R,G,B format
     unsigned char* m_PixelData;
