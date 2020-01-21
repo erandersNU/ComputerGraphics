@@ -1,16 +1,11 @@
 # Assignment 1 - Modern C++ PPM Library
 
-*TODO*: Please edit the following information in your assignment
-
-* Name and partners name (At most 1 partner for this assignment): 
-* How many hours did it take you to complete this assignment? 
-* Did you collaborate or share ideas with any other students/TAs/Professors? 
-* Did you use any external resources? 
-  * (tbd if any)
-  * (tbd if any)
-  * (tbd if any)
+* Name and partners name (At most 1 partner for this assignment): Zachery Casey
+* How many hours did it take you to complete this assignment? 1
+* Did you collaborate or share ideas with any other students/TAs/Professors? No
+* Did you use any external resources? No
 * (Optional) What was the most interesting part of the assignment? How would you improve this assignment?
-  
+
 ## Description
 
 C++ is the standard programming language for programming in the computer graphics, gaming, entertainment, and other industies that require high performance. While we can learn computer graphics in any general purpose language, the long term outlook for jobs appears to remain in C++ (And besides, once you learn how to work in C++, you could work in other languages as needed. We'll also see the GLSL language which is C-based). For this exercise(and all that follow), you will be using modern C++. This means C++11 and beyond (C++11 is the standard of the language in the year 2011. There are further versions C++14, C++17, C++20, etc).
@@ -34,38 +29,38 @@ C++ has many different data types built in by default. Below is a table of the d
     <tr>
       <th>Data Type</th>
       <th>Size in Bytes</th>
-      <th>Range</th>	    
+      <th>Range</th>
     </tr>
     <tr>
       <td>long int</td>
       <td>4</td>
-      <td>-2,147,483,648 to 2,147,483,647</td>	    
+      <td>-2,147,483,648 to 2,147,483,647</td>
     </tr>
     <tr>
       <td>unsigned int</td>
       <td>4</td>
-      <td>0 to 4,294,967,295</td>	    
+      <td>0 to 4,294,967,295</td>
     </tr>
     <tr>
       <td>signed char</td>
       <td>1</td>
-      <td>-128 to 127</td>	    
+      <td>-128 to 127</td>
     </tr>
     <tr>
       <td>unsigned char</td>
       <td>1</td>
-      <td>0 to 255</td>	    
+      <td>0 to 255</td>
     </tr>
     <tr>
       <td>float</td>
       <td>4</td>
-      <td>+/- 1.4023x10^-45 to 3.4028x10^+38</td>	    
+      <td>+/- 1.4023x10^-45 to 3.4028x10^+38</td>
     </tr>
     <tr>
       <td>double</td>
       <td>8</td>
-      <td>+/- 4.9406x10^-324 to 1.7977x10^308</td>	    
-    </tr>	  
+      <td>+/- 4.9406x10^-324 to 1.7977x10^308</td>
+    </tr>
   </tbody>
 </table>
 
@@ -82,9 +77,9 @@ int main(){
 
 	// Most of the time a 'signed int' is abbreviated as simply an 'int'e.
 	std::cout << "Data size of int in bytes = " << sizeof(int) << std::endl;
-	// Most of the time a 'signed char' is abbreviated as simply a 'char'.	
+	// Most of the time a 'signed char' is abbreviated as simply a 'char'.
 	std::cout << "Data size of char in bytes = " << sizeof(char) << std::endl;
-	
+
 	std::cout << "Data size of float in bytes = " << sizeof(float) << std::endl;
 	std::cout << "Data size of double in bytes = " << sizeof(double) << std::endl;
 
@@ -93,7 +88,7 @@ int main(){
 
 ```
 
-## Part 2 - Basic I/O 
+## Part 2 - Basic I/O
 
 To start, click on this URL (And then hit the C++11 tab): http://www.cplusplus.com/reference/iostream/. Take a moment to browse the Objects you have available. It may also be worth bookmarking that website as a reference.
 
@@ -118,7 +113,7 @@ To start, click on this URL (And then hit the C++11 tab): http://www.cplusplus.c
     <tr>
       <td>clog</td>
       <td align="left">Handles output of text for logging purposes</td>
-    </tr>	  
+    </tr>
   </tbody>
 </table>
 
@@ -136,15 +131,15 @@ int main(){
 	// is part of the standard library namespace.
 	std::cout << "Hello" << std::endl;
 	std::cout << "How old are you?" << std::endl;
-	
-	
+
+
 	// Let's use some of the primitive variable types in C++
 	// to store input.
 	int age;
-	
+
 	// Now we want to get c++ input (i.e. cin)
 	std::cin >> age;
-	
+
 	std::cout << "That is great you are " << age << std::endl;
 
 	return 0;
@@ -174,7 +169,7 @@ int main(int argc, char** argv){
     // This overwrites a previous file, or otherwise
     // creates a new file if it does not exist.
     outFile.open("temp.txt");
-    
+
     // We can work with files similar to how we
     // work with cout and cin.
     outFile << "# Some image data" << std::endl;
@@ -211,7 +206,7 @@ int main(int argc, char** argv){
     // arguments of our main function.
     // So when we run our program, we will type on the command-line:
     // ./input objects/bunny.obj"
-    
+
     // Let's enforce that there needs to be one argument.
     // argc is the "argument count" parameter.
     if (argc != 2){
@@ -223,7 +218,7 @@ int main(int argc, char** argv){
     // Think about why this is argv[1].
     // Try printing it out to see what this is.
     inFile.open(argv[1]);
-    
+
     // Lets also check to make sure the filepath is correct.
     if(inFile.is_open()){
         // Now we can do some work
@@ -236,7 +231,7 @@ int main(int argc, char** argv){
             std::cout << line << std::endl;
         }
     }
-    
+
     // Closes the file we are reading from
     inFile.close();
 
@@ -260,7 +255,7 @@ Strings are typically implemented as character arrays, such that each index is a
       <th>2</th>
       <th>3</th>
       <th>4</th>
-      <th>5</th>	    
+      <th>5</th>
     </tr>
     <tr>
       <td>'h'</td>
@@ -274,7 +269,7 @@ Strings are typically implemented as character arrays, such that each index is a
 </table>
 
 In our previous example, we saw the std::string data type. This is provided through the <string> library, which provides us a slightly more convenient way to work with textual data.
-	
+
 The [reference page](http://www.cplusplus.com/reference/string/string/) provides several handy methods for performing operations like searching strings, adding characters, and navigating them. Here is a very brief example. Use the reference to see more examples.
 
 ```cpp
@@ -330,7 +325,7 @@ int main(int argc, char** argv){
     // Create a vector which stores
     // 'unsigned char' data.
     std::vector<unsigned char> myData;
-    
+
     // Add data into our vector.
     for(unsigned int i = 65; i < 91; ++i){
         myData.push_back(i);
@@ -372,8 +367,8 @@ public: // Member Functions/Variables available
         // Reclaim our memory when we are done.
         delete[] pixelData;
     }
-    
-private:    // Data not visible to a user of 
+
+private:    // Data not visible to a user of
             // this object.
     unsigned char* pixelData;
 
@@ -382,7 +377,7 @@ private:    // Data not visible to a user of
 
 int main(){
 
-    // Create an instance an object with 
+    // Create an instance an object with
     // a data type of 'PPM'
     PPM myPPM(64,128);
 
@@ -402,7 +397,7 @@ With a little bit of prior programming experience and experimentation you can pi
 
 # PPM Library
 
-For this assignment you are going to implement a PPM library. PPM is a data format for structuring image data. You likely have used or saved images formatted as .jpg, .bmp, .png, or .gif, and now you will understand .ppm. 
+For this assignment you are going to implement a PPM library. PPM is a data format for structuring image data. You likely have used or saved images formatted as .jpg, .bmp, .png, or .gif, and now you will understand .ppm.
 
 ## Images
 
@@ -431,7 +426,7 @@ P3
 
 ### Structure of our library
 
-You are given a include/PPM.h file which describes the interface to your class. You will implement the functionality for that class in the src/PPM.cpp file. A corresponding main.cpp file is where the program will run. 
+You are given a include/PPM.h file which describes the interface to your class. You will implement the functionality for that class in the src/PPM.cpp file. A corresponding main.cpp file is where the program will run.
 
 ### Deliverables
 
