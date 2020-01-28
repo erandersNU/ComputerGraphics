@@ -21,7 +21,7 @@
 
 ## Logistics
 
-You will be working with some starter code provided. You will be working in the ''labBasicWidget.cpp'' and ''Matrix4f.h'' files for this assignment to create a spinning triangle.
+You will be working with some starter code provided. You will be working in the ''BasicWidget.cpp'' and ''Matrix4f.h'' files for this assignment to create a spinning triangle.
 
 ## Description
 
