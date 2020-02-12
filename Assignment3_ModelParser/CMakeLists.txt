@@ -7,6 +7,7 @@ set(CMAKE_AUTOMOC ON)
 set(CMAKE_INCLUDE_CURRENT_DIR ON)
 
 find_package(Qt5 COMPONENTS Widgets Core Gui OpenGL)
+find_package(OpenGL REQUIRED)
 
 include_directories(
   ${QtWidget_INCLUDES}
@@ -25,7 +26,7 @@ add_executable(Assignment
   ${srcs}
 )
 
-target_link_libraries(Assignment Qt5::Widgets Qt5::Core Qt5::Gui Qt5::OpenGL)
+target_link_libraries(Assignment Qt5::Widgets Qt5::Core Qt5::Gui Qt5::OpenGL OpenGL::GL)
 
 if(WIN32)
 	add_custom_command(TARGET ${PROJECT_NAME} POST_BUILD
