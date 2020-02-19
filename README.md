@@ -5,7 +5,7 @@ class in Spring 2020.
 
 Syllabus, Schedule, and Roadmap
 =====================================================================
-The following is our tentative syllabus for the course, some changes should be expected throughout the semester. I will announce in class or through e-mail any major changes.
+The following is our tentative syllabus for the course, some changes should be expected throughout the semester. I will announce in class or through e-mail any major changes.  Please note that A2 does not actually exist -- due to some strangeness with numbering, A2 was skipped.
 
 <table class="table table-bordered table-hover table-responsive table-condensed">
   <thead class="thead-inverse table-striped">
