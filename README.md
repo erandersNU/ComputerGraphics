@@ -156,7 +156,7 @@ The following is our tentative syllabus for the course, some changes should be e
       </ul>
     </div>
   </td>
-  <td style="background-color: #333333; color: #DDDDDD;"><center>A2 released (Due Feb 19. 2020)</center></td>
+  <td style="background-color: #333333; color: #DDDDDD;"><center>A3 released (Due Feb 19. 2020)</center></td>
     <td style="background-color: #333333; color: #DDDDDD;"><center>-- --</center></td>
 </tr>    
   <!--------------------- Week 6--------------------------- -->
@@ -223,7 +223,7 @@ The following is our tentative syllabus for the course, some changes should be e
       </ul>
     </div>
   </td>
-  <td style="background-color: #333333; color: #DDDDDD;"><center>A3 released (Due Mar 18, 2020)</td>
+  <td style="background-color: #333333; color: #DDDDDD;"><center>A4 released (Due Mar 18, 2020)</td>
     <td style="background-color: #333333; color: #DDDDDD;"><center>Final Project Prep</center></td>
 </tr>  
           <!--------------------- Spring Break --------------------------- -->
@@ -294,7 +294,7 @@ The following is our tentative syllabus for the course, some changes should be e
       </ul>
     </div>
   </td>
-  <td style="background-color: #333333; color: #DDDDDD;"><center>A4 Released (Due Apr 1, 2020)</center></td>
+  <td style="background-color: #333333; color: #DDDDDD;"><center>A5 Released (Due Apr 1, 2020)</center></td>
     <td style="background-color: #333333; color: #DDDDDD;"><center>-- --</center></td>
 </tr> 
 <!--------------------- Week 11--------------------------- -->
@@ -348,7 +348,7 @@ The following is our tentative syllabus for the course, some changes should be e
       </ul>
     </div>
   </td>
-  <td style="background-color: #333333; color: #DDDDDD;"><center>A5 released (Due Apr. 15, 2020)</center></td>
+  <td style="background-color: #333333; color: #DDDDDD;"><center>A6 released (Due Apr. 15, 2020)</center></td>
     <td style="background-color: #333333; color: #DDDDDD;"><center>There is no final exam here.</center></td>
 </tr> 
 <!--------------------- Week 13--------------------------- -->
