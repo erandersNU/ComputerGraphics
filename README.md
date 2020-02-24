@@ -5,7 +5,7 @@ class in Spring 2020.
 
 Syllabus, Schedule, and Roadmap
 =====================================================================
-The following is our tentative syllabus for the course, some changes should be expected throughout the semester. I will announce in class or through e-mail any major changes.
+The following is our tentative syllabus for the course, some changes should be expected throughout the semester. I will announce in class or through e-mail any major changes.  Please note that A2 does not actually exist -- due to some strangeness with numbering, A2 was skipped.
 
 <table class="table table-bordered table-hover table-responsive table-condensed">
   <thead class="thead-inverse table-striped">
@@ -156,7 +156,7 @@ The following is our tentative syllabus for the course, some changes should be e
       </ul>
     </div>
   </td>
-  <td style="background-color: #333333; color: #DDDDDD;"><center>A2 released (Due Feb 19. 2020)</center></td>
+  <td style="background-color: #333333; color: #DDDDDD;"><center>A3 released (Due Feb 19. 2020)</center></td>
     <td style="background-color: #333333; color: #DDDDDD;"><center>-- --</center></td>
 </tr>    
   <!--------------------- Week 6--------------------------- -->
@@ -195,7 +195,7 @@ The following is our tentative syllabus for the course, some changes should be e
     <div id="lecture1" class="collapse">
     </div>
   </td>
-  <td style="background-color: #333333; color: #DDDDDD;"><center>A3 released (Due Mar 4, 2020)</center></td>
+  <td style="background-color: #333333; color: #DDDDDD;">-- --</center></td>
     <td style="background-color: #333333; color: #DDDDDD;"><center>Erik out of town.</center></td>
 </tr>  
       <!--------------------- Week 8--------------------------- -->
@@ -223,8 +223,8 @@ The following is our tentative syllabus for the course, some changes should be e
       </ul>
     </div>
   </td>
-  <td style="background-color: #333333; color: #DDDDDD;"><center>Final Project Prep</center></td>
-    <td style="background-color: #333333; color: #DDDDDD;"><center>Final Project Repo</center></td>
+  <td style="background-color: #333333; color: #DDDDDD;"><center>A4 released (Due Mar 18, 2020)</td>
+    <td style="background-color: #333333; color: #DDDDDD;"><center>Final Project Prep</center></td>
 </tr>  
           <!--------------------- Spring Break --------------------------- -->
   <tr>
@@ -269,7 +269,7 @@ The following is our tentative syllabus for the course, some changes should be e
       </ul>
     </div>
   </td>
-  <td style="background-color: #333333; color: #DDDDDD;"><center>A4 Released (Due Mar 25, 2020)</center></td>
+  <td style="background-color: #333333; color: #DDDDDD;"><center>-- --</center></td>
     <td style="background-color: #333333; color: #DDDDDD;"><center>-- --</center></td>
 </tr>  
           <!--------------------- Week 10--------------------------- -->
@@ -294,7 +294,7 @@ The following is our tentative syllabus for the course, some changes should be e
       </ul>
     </div>
   </td>
-  <td style="background-color: #333333; color: #DDDDDD;"><center>-- --</center></td>
+  <td style="background-color: #333333; color: #DDDDDD;"><center>A5 Released (Due Apr 1, 2020)</center></td>
     <td style="background-color: #333333; color: #DDDDDD;"><center>-- --</center></td>
 </tr> 
 <!--------------------- Week 11--------------------------- -->
@@ -321,7 +321,7 @@ The following is our tentative syllabus for the course, some changes should be e
       </ul>
     </div>
   </td>
-  <td style="background-color: #333333; color: #DDDDDD;"><center>A5 released (Due Apr. 15, 2020)</center></td>
+  <td style="background-color: #333333; color: #DDDDDD;"><center>-- --</center></td>
     <td style="background-color: #333333; color: #DDDDDD;"><center>-- --</center></td>
 </tr> 
 <!--------------------- Week 12--------------------------- -->
@@ -348,7 +348,7 @@ The following is our tentative syllabus for the course, some changes should be e
       </ul>
     </div>
   </td>
-  <td style="background-color: #333333; color: #DDDDDD;"><center>-- --</center></td>
+  <td style="background-color: #333333; color: #DDDDDD;"><center>A6 released (Due Apr. 15, 2020)</center></td>
     <td style="background-color: #333333; color: #DDDDDD;"><center>There is no final exam here.</center></td>
 </tr> 
 <!--------------------- Week 13--------------------------- -->
