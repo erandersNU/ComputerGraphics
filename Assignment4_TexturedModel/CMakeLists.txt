@@ -17,9 +17,6 @@ include_directories(
 )
 
 set(srcs
-  App.cpp
-  BasicWidget.cpp
-  Renderable.cpp
   main.cpp
 )
 
