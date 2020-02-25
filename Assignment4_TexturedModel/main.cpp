@@ -6,8 +6,8 @@
 #include <QtGui>
 #include <QtOpenGL>
 
-// Lab application
-#include "Application.h"
+// TODO:  you have to include whatever application-specific code there is here.  This should be
+// a subclass of QMainWindow!
 
 int main(int argc, char** argv) {
   QApplication a(argc, argv);
@@ -20,8 +20,9 @@ int main(int argc, char** argv) {
   fmt.setVersion(3,3);
   fmt.setProfile(QSurfaceFormat::CoreProfile);
   QSurfaceFormat::setDefaultFormat(fmt);
-  
-  Application app;
-  app.show();
-  return QApplication::exec();
+
+  // TODO:  Replace the following 3 lines with whatever you need to create, show, and execute your application
+  //Application app;
+  //app.show();
+  //return QApplication::exec();
 }
