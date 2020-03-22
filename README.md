@@ -394,7 +394,7 @@ The following is our tentative syllabus for the course, some changes should be e
       </li>
       <li>Lab
       <ul>
-      <li>Ray Tracer</li>
+      <li>Ray Tracer - Optional</li>
       </ul>
       </li>  
       </ul>
