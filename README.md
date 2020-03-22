@@ -223,7 +223,7 @@ The following is our tentative syllabus for the course, some changes should be e
       </ul>
     </div>
   </td>
-  <td style="background-color: #333333; color: #DDDDDD;"><center>A4 released (Due Mar 18, 2020)</td>
+  <td style="background-color: #333333; color: #DDDDDD;"><center>A4 released (Due Mar 27, 2020)***</td>
     <td style="background-color: #333333; color: #DDDDDD;"><center>Final Project Prep</center></td>
 </tr>  
           <!--------------------- Spring Break --------------------------- -->
@@ -251,7 +251,7 @@ The following is our tentative syllabus for the course, some changes should be e
     <td rowspan="1">8</td>
     <td style="background-color: #333333; color: #DDDDDD;">Tues Mar 10 2020</td>
     <td style="background-color: #333333; color: #DDDDDD;">
-    <button type="button" class="btn btn-warning" data-toggle="collapse" data-target="#lecture1"  style="width: 100%; text-align: left" >Module 8 - Camera and Lighting</button>
+    <button type="button" class="btn btn-warning" data-toggle="collapse" data-target="#lecture1"  style="width: 100%; text-align: left" >Module 8 - Camera</button>
     <div id="lecture1" class="collapse">
       <ul>
       <li>Lecture outline
@@ -277,7 +277,7 @@ The following is our tentative syllabus for the course, some changes should be e
     <td rowspan="1">9</td>
     <td style="background-color: #333333; color: #DDDDDD;">Tues Mar 17 2020</td>
     <td style="background-color: #333333; color: #DDDDDD;">
-    <button type="button" class="btn btn-warning" data-toggle="collapse" data-target="#lecture1"  style="width: 100%; text-align: left" >Module 9 - Multiple Lights and Normal Mapping</button>
+    <button type="button" class="btn btn-warning" data-toggle="collapse" data-target="#lecture1"  style="width: 100%; text-align: left" >Canceled due to COVID</button>
     <div id="lecture1" class="collapse">
       <ul>
       <li>Lecture outline
@@ -294,13 +294,39 @@ The following is our tentative syllabus for the course, some changes should be e
       </ul>
     </div>
   </td>
-  <td style="background-color: #333333; color: #DDDDDD;"><center>A5 Released (Due Apr 1, 2020)</center></td>
+  <td style="background-color: #333333; color: #DDDDDD;"><center>-- --</center></td>
     <td style="background-color: #333333; color: #DDDDDD;"><center>-- --</center></td>
 </tr> 
 <!--------------------- Week 11--------------------------- -->
   <tr>
     <td rowspan="1">10</td>
     <td style="background-color: #333333; color: #DDDDDD;">Tues Mar 24 2020</td>
+    <td style="background-color: #333333; color: #DDDDDD;">
+    <button type="button" class="btn btn-warning" data-toggle="collapse" data-target="#lecture1"  style="width: 100%; text-align: left" >Module 9 - Lights, Multiple Lights and Normal Mapping</button>
+    <div id="lecture1" class="collapse">
+      <ul>
+      <li>Lecture outline
+      <ul>
+      <li>Lighting</li>
+      <li>Multiple Lights in Shaders</li>
+      <li>Normal Mapping</li>
+      </ul>
+      </li>
+      <li>Lab
+      <ul>
+      <li>Multiple Lights</li>
+      </ul>
+      </li>  
+      </ul>
+    </div>
+  </td>
+  <td style="background-color: #333333; color: #DDDDDD;"><center>A5 Released (Due Apr 8, 2020)***</center></td>
+    <td style="background-color: #333333; color: #DDDDDD;"><center>-- --</center></td>
+</tr> 
+<!--------------------- Week 11--------------------------- -->
+<tr>
+    <td rowspan="1">11</td>
+    <td style="background-color: #333333; color: #DDDDDD;">Tues Mar 31 2020</td>
     <td style="background-color: #333333; color: #DDDDDD;">
     <button type="button" class="btn btn-warning" data-toggle="collapse" data-target="#lecture1"  style="width: 100%; text-align: left" >Module 10 - Scene Graphs and Terrain</button>
     <div id="lecture1" class="collapse">
@@ -326,8 +352,8 @@ The following is our tentative syllabus for the course, some changes should be e
 </tr> 
 <!--------------------- Week 12--------------------------- -->
   <tr>
-    <td rowspan="1">11</td>
-    <td style="background-color: #333333; color: #DDDDDD;">Tues Mar 31 2020</td>
+    <td rowspan="1">12</td>
+    <td style="background-color: #333333; color: #DDDDDD;">Tues Apr 7 2020</td>
     <td style="background-color: #333333; color: #DDDDDD;">
     <button type="button" class="btn btn-warning" data-toggle="collapse" data-target="#lecture1"  style="width: 100%; text-align: left" >Module 11 - Framebuffer Objects and Post-processing</button>
     <div id="lecture1" class="collapse">
@@ -353,8 +379,8 @@ The following is our tentative syllabus for the course, some changes should be e
 </tr> 
 <!--------------------- Week 13--------------------------- -->
   <tr>
-    <td rowspan="1">12</td>
-    <td style="background-color: #333333; color: #DDDDDD;">Tues Apr 7 2020</td>
+    <td rowspan="1">13</td>
+    <td style="background-color: #333333; color: #DDDDDD;">Tues Apr 14 2020</td>
     <td style="background-color: #333333; color: #DDDDDD;">
     <button type="button" class="btn btn-warning" data-toggle="collapse" data-target="#lecture1"  style="width: 100%; text-align: left" >Module 12 - Ray Tracing</button>
     <div id="lecture1" class="collapse">
@@ -367,31 +393,6 @@ The following is our tentative syllabus for the course, some changes should be e
       <li>Lab
       <ul>
       <li>Ray Tracer</li>
-      </ul>
-      </li>  
-      </ul>
-    </div>
-  </td>
-  <td style="background-color: #333333; color: #DDDDDD;"><center>-- --</center></td>
-    <td style="background-color: #333333; color: #DDDDDD;"><center>There is no final exam here.</center></td>
-</tr> 
-<!--------------------- Week 14--------------------------- -->
-  <tr>
-    <td rowspan="1">13</td>
-    <td style="background-color: #333333; color: #DDDDDD;">Tues Apr 14 2020</td>
-    <td style="background-color: #333333; color: #DDDDDD;">
-    <button type="button" class="btn btn-warning" data-toggle="collapse" data-target="#lecture1"  style="width: 100%; text-align: left" >Module 13 - Instructor's Choice and Wrap Up</button>
-    <div id="lecture1" class="collapse">
-      <ul>
-      <li>Lecture outline
-      <ul>
-      <li>Advanced Topics</li>
-      <li>Course Wrap-up</li>
-      </ul>
-      </li>
-      <li>Lab
-      <ul>
-      <li>Project Showcase</li>
       </ul>
       </li>  
       </ul>
