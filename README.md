@@ -314,6 +314,8 @@ The following is our tentative syllabus for the course, some changes should be e
       </li>
       <li>Lab
       <ul>
+      <li>Camera</li>
+      <li>Illumination</li>
       <li>Multiple Lights</li>
       </ul>
       </li>  
