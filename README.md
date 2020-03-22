@@ -7,6 +7,8 @@ Syllabus, Schedule, and Roadmap
 =====================================================================
 The following is our tentative syllabus for the course, some changes should be expected throughout the semester. I will announce in class or through e-mail any major changes.  Please note that A2 does not actually exist -- due to some strangeness with numbering, A2 was skipped.
 
+*** Note:  Due to the COVID emergency, due dates here are <i>recommended</i> dates.  All submissions MUST be in by April 15 for credit, but no late penalties will be applied.
+
 <table class="table table-bordered table-hover table-responsive table-condensed">
   <thead class="thead-inverse table-striped">
     <tr>
