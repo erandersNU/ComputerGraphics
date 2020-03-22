@@ -347,7 +347,7 @@ The following is our tentative syllabus for the course, some changes should be e
       </ul>
     </div>
   </td>
-  <td style="background-color: #333333; color: #DDDDDD;"><center>-- --</center></td>
+  <td style="background-color: #333333; color: #DDDDDD;"><center><center>A6 released (Due Apr. 15, 2020)</center></td>
     <td style="background-color: #333333; color: #DDDDDD;"><center>-- --</center></td>
 </tr> 
 <!--------------------- Week 12--------------------------- -->
@@ -374,7 +374,7 @@ The following is our tentative syllabus for the course, some changes should be e
       </ul>
     </div>
   </td>
-  <td style="background-color: #333333; color: #DDDDDD;"><center>A6 released (Due Apr. 15, 2020)</center></td>
+  <td style="background-color: #333333; color: #DDDDDD;">-- --</center></td>
     <td style="background-color: #333333; color: #DDDDDD;"><center>There is no final exam here.</center></td>
 </tr> 
 <!--------------------- Week 13--------------------------- -->
