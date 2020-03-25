@@ -238,11 +238,12 @@ void main()
 
 ## Rubric
 
-You (and any partner(s)) will receive the same grade from a scale of 0-2.
+You (and any partner(s)) will receive the same grade from a scale of 0-3.
 
 - 0 for no work completed by the deadline
 - 1 for some work completed, but something is not working properly
-- 2 for a completed lab (with possible 'going further' options completed)
+- 2 for a completed lab with a single light
+- 3 for a completed lab with multiple lights
 
 ## Going Further
 
