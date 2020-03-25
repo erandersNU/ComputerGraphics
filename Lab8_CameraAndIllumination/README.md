@@ -64,6 +64,24 @@ much you move around the screen.
 Note: You may use the slides for guidance on completing this task. The
 deliverables section describes your task with some hints.
 
+## Part 3 - Multiple Lights
+
+As discussed in lecture, we are augmenting this lab to encapsulate the 
+Multiple Lights lecture which will allow us to get back on track with 
+everything.  In order to satisfy the multiple lights requirements, please
+modify the necessary code (in the fragment shader and UnitQuad/Object::update())
+to incorporate no fewer than 3 lights in your scene.  Please experiment 
+with different light colors at a minimum.  I encourage you to incorporate 
+at least one light of a different type (not omni-directional point light) into
+the scene.  (Make the initial light a spotlight for example).
+
+Example shaders for multiple lights have been provided both below and in the 
+repository.  Please note that you will be required to augment these shaders with
+an appropriate loop structure to handle the summation of the contribution of each 
+light.  Please feel free to make use of the lecture slides and any
+online resources you find to complete the assignment.  If you use outside 
+sources, be sure to cite them above!
+
 ### Vertex Shader in a glance
 
 This is what you are suppose to implement. Study it.
@@ -216,14 +234,16 @@ void main()
 1. Implement movement of the camera
 2. Implement 'mouselook' in the camera
 3. Implement *some* model of light in your scene.
+4. Implement multiple lights in your scene - no fewer than 3.  Each light should be either a different type or color.
 
 ## Rubric
 
-You (and any partner(s)) will receive the same grade from a scale of 0-2.
+You (and any partner(s)) will receive the same grade from a scale of 0-3.
 
 - 0 for no work completed by the deadline
 - 1 for some work completed, but something is not working properly
-- 2 for a completed lab (with possible 'going further' options completed)
+- 2 for a completed lab with a single light
+- 3 for a completed lab with multiple lights
 
 ## Going Further
 
