@@ -234,6 +234,7 @@ void main()
 1. Implement movement of the camera
 2. Implement 'mouselook' in the camera
 3. Implement *some* model of light in your scene.
+4. Implement multiple lights in your scene - no fewer than 3.
 
 ## Rubric
 
