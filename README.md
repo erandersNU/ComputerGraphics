@@ -479,14 +479,13 @@ Part of what makes Northeastern University unique, is our diverse cohort of stud
 
 Assessment/Course Policies
 ===================================================
-Please find below the grading distribution that will be used for this course to compute a <a href="https://en.wikipedia.org/wiki/Weighted_arithmetic_mean#Mathematical_definition">weighted average</a> for your final grade. You will find grades you earn through the semester on <a href="https://northeastern.blackboard.com/">blackboard</a> and your final grade in banner.
+Please find below the grading distribution that will be used for this course to compute a <a href="https://en.wikipedia.org/wiki/Weighted_arithmetic_mean#Mathematical_definition">weighted average</a> for your final grade. You will find grades you earn through the semester on <a href="https://northeastern.blackboard.com/">blackboard</a> and your final grade in banner.  As a result of the COVID-19 pandemic, we will <i>not</i> have a final project.  To re-balance the grading, labs will be worth an additional 5% and Assignments an additional 15%.
 
 <ul>
   <tt>
     <li> In-Class Activity: 5%</li>
-    <li> In-Class Labs: &nbsp;&nbsp;&nbsp;&nbsp;15%</li>
-    <li> Final Project: &nbsp;&nbsp;&nbsp;&nbsp;20%</li>
-    <li> Assignments:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;60%
+    <li> In-Class Labs: &nbsp;&nbsp;&nbsp;&nbsp;20%</li>
+    <li> Assignments:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;75%
 		<ul>
 				<li>(Each Assignment worth the same % of points)</li>
 		</ul>
