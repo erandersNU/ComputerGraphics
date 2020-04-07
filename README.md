@@ -378,7 +378,7 @@ The following is our tentative syllabus for the course, some changes should be e
       </ul>
     </div>
   </td>
-  <td style="background-color: #333333; color: #DDDDDD;">-- --</center></td>
+  <td style="background-color: #333333; color: #DDDDDD;"><a href="https://docs.google.com/presentation/d/1GStmiakKJ_t_JtAsLB-WA2mZI67EVuMr5cHi_H0NMhs/edit?usp=sharing">5 slides</a></center></td>
     <td style="background-color: #333333; color: #DDDDDD;"><center>There is no final exam here.</center></td>
 </tr> 
 <!--------------------- Week 13--------------------------- -->
